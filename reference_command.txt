@@ -1,0 +1,31 @@
+Step1: Install NodeJs
+Step2: install react-app:
+npm install -g create-react-app
+Step3: create new project:
+create-react-app project_name
+Step4: Start local server to run our web:
+npm start
+
+Git command:
+1. Create new file:
+touch file_name (eg: touch new_file.txt)
+2. Initialize local git repository
+git init
+3. Add file to staging area:
+git add file_name
+4. Check status of working tree:
+git status
+5. Commit changes in staging area:
+git commit
+6. Push to remote repository github:
+git push
+7. pull latest from remote repository:
+git pull
+8. Clone remote repository locally:
+git clone
+9. create new branch:
+git branch branch_name
+10. Switch to a branch:
+git checkout branch_name
+11. merge a branch with another
+git merge branch_name
