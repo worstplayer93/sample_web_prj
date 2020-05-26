@@ -36,4 +36,7 @@ https://www.youtube.com/watch?v=N_bMCff8q6A&t=892s
 2. reactjs:
 https://www.youtube.com/watch?v=1keBvWJCqz0&list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow
 
-
+Extension for VScode:
+1. Bootstrap 4 and foont awesome snippets
+2. View in browser
+3. ReactJs code snippets
